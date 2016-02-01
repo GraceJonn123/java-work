@@ -1,0 +1,5 @@
+public class Add extends math{
+	public int sum(){
+	return 100;
+	}
+}

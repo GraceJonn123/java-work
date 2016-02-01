@@ -1,0 +1,26 @@
+
+public class helloworld {
+     public static void main(String[] args)
+     {
+    	 String remainderString="String to Print"; 
+    	 String anotherString="whatevs";
+    	 
+    	 String omg= remainderString + ' ' +anotherString;
+    			 
+    	 System.out.println(omg);
+    
+    }
+     class today {
+    	 public static void main(String[] args){
+    		String Grace="lalalala";
+    		String todayGrace="manze";
+    		
+    		String oohLala= Grace + ' ' + todayGrace;
+    		
+    		 System.out.println(oohLala);
+    	 }
+    	 }
+
+
+ }
+ 

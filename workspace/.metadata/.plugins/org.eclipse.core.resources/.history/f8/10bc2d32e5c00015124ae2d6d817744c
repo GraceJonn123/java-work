@@ -1,0 +1,9 @@
+
+public class helloworld {
+     public static void main(String[] args)
+     {
+    	 static String remainderString=("String to Print") 
+    	 System.out.println("remainderString");
+    
+    }
+     }

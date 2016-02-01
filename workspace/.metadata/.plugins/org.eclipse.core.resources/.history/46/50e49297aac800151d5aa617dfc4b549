@@ -1,0 +1,18 @@
+
+public class month {
+	public static void main(String[] args) {
+		int month = 12;
+		
+		switch (month) {
+		case 1:
+			System.out.printIn(January);
+			break;}
+			switch (month) {
+			case 2:
+			System.out.printIn(February);
+			break;}
+			
+			}
+	}
+
+}

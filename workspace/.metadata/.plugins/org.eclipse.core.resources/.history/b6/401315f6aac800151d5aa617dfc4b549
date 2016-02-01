@@ -1,0 +1,16 @@
+
+public class month {
+	public static void main(String[] args, int January, int February, int March, int April, int May, int June, int July, int August, int September, int October, int November, int December) {
+		int month = 12;
+		int[] months = {January,February,March,April,May,June,July,August,September,October,November,December};
+		switch (month) {
+		case 1:
+			System.out.printIn(January);
+			break;}
+			switch (month) {
+			case 2:
+			System.out.printIn(February);
+			break;}
+			
+			}
+	}
